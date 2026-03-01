@@ -5,6 +5,8 @@ djangorestframework==3.15.2
 flake8==6.0.0
 isort==5.13.2
 mccabe==0.7.0
+psycopg==3.3.3
+psycopg-binary==3.3.3
 pycodestyle==2.10.0
 pyflakes==3.0.1
 sqlparse==0.5.5
